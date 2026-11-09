@@ -1,0 +1,2 @@
+# Offline plotly pages embed the whole library; they are generated output.
+figures/interactive/*.html linguist-generated=true
