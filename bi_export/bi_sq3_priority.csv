@@ -1,0 +1,4 @@
+﻿priority,n_rated,n_requests,avg_rating,median_hours,miss_rate
+high,1864,5254,4.189,13.908,0.397
+medium,5008,14404,4.209,64.942,0.377
+low,4100,11844,4.191,134.925,0.379

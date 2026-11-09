@@ -1,0 +1,19 @@
+﻿department,priority,n_rated,n_requests,avg_rating,miss_rate
+Roads & Lighting,high,578,1664,4.125,0.412
+Roads & Lighting,medium,1549,4457,4.348,0.297
+Roads & Lighting,low,1265,3692,4.374,0.296
+Waste & Cleanliness,high,313,972,4.109,0.417
+Waste & Cleanliness,medium,1596,4626,4.173,0.402
+Waste & Cleanliness,low,1304,3800,4.123,0.386
+Water,high,536,1406,4.384,0.304
+Water,medium,196,577,4.383,0.281
+Water,low,168,519,4.351,0.303
+Parks,high,36,118,4.056,0.483
+Parks,medium,451,1400,4.184,0.411
+Parks,low,385,1092,4.101,0.437
+Environment & Noise,high,315,845,4.111,0.456
+Environment & Noise,medium,674,1847,4.092,0.422
+Environment & Noise,low,572,1609,4.101,0.447
+Citizen Services,high,86,249,4.035,0.514
+Citizen Services,medium,542,1497,4.022,0.485
+Citizen Services,low,406,1132,3.99,0.512

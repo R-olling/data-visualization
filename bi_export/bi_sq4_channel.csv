@@ -1,0 +1,5 @@
+﻿channel,n_rated,n_requests,avg_rating,miss_rate
+mobile_app,5160,14832,4.255,0.353
+in_person,713,2028,4.175,0.399
+web,1766,5088,4.152,0.407
+phone,3333,9554,4.142,0.407
